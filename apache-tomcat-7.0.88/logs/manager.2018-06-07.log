@@ -4,3 +4,87 @@ Jun 07, 2018 9:16:32 AM org.apache.catalina.core.ApplicationContext log
 INFO: HTMLManager: init: Global resources are available
 Jun 07, 2018 9:16:32 AM org.apache.catalina.core.ApplicationContext log
 INFO: HTMLManager: list: Listing contexts for virtual host 'localhost'
+Jun 07, 2018 9:41:50 AM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: init: Associated with Deployer 'Catalina:type=Deployer,host=localhost'
+Jun 07, 2018 9:41:50 AM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: init: Global resources are available
+Jun 07, 2018 9:41:50 AM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: list: Listing contexts for virtual host 'localhost'
+Jun 07, 2018 9:41:50 AM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: deploy: Deploying web application '/test'
+Jun 07, 2018 9:41:50 AM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: Uploading WAR file to /home/deepikamarathi493/test1/apache-tomcat-7.0.88/webapps/test.war
+Jun 07, 2018 9:41:50 AM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: list: Listing contexts for virtual host 'localhost'
+Jun 07, 2018 9:41:50 AM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: list: Listing contexts for virtual host 'localhost'
+Jun 07, 2018 9:41:50 AM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: undeploy: Undeploying web application at '/test'
+Jun 07, 2018 9:41:51 AM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: deploy: Deploying web application '/test'
+Jun 07, 2018 9:41:51 AM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: Uploading WAR file to /home/deepikamarathi493/test1/apache-tomcat-7.0.88/webapps/test.war
+Jun 07, 2018 9:41:55 AM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: list: Listing contexts for virtual host 'localhost'
+Jun 07, 2018 9:41:55 AM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: list: Listing contexts for virtual host 'localhost'
+Jun 07, 2018 9:41:56 AM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: undeploy: Undeploying web application at '/test'
+Jun 07, 2018 9:41:56 AM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: deploy: Deploying web application '/test'
+Jun 07, 2018 9:41:56 AM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: Uploading WAR file to /home/deepikamarathi493/test1/apache-tomcat-7.0.88/webapps/test.war
+Jun 07, 2018 9:41:56 AM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: list: Listing contexts for virtual host 'localhost'
+Jun 07, 2018 9:41:56 AM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: list: Listing contexts for virtual host 'localhost'
+Jun 07, 2018 9:41:56 AM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: undeploy: Undeploying web application at '/test'
+Jun 07, 2018 9:41:57 AM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: deploy: Deploying web application '/test'
+Jun 07, 2018 9:41:57 AM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: Uploading WAR file to /home/deepikamarathi493/test1/apache-tomcat-7.0.88/webapps/test.war
+Jun 07, 2018 9:42:09 AM org.apache.catalina.core.ApplicationContext log
+INFO: HTMLManager: list: Listing contexts for virtual host 'localhost'
+Jun 07, 2018 9:49:43 AM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: list: Listing contexts for virtual host 'localhost'
+Jun 07, 2018 9:49:43 AM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: list: Listing contexts for virtual host 'localhost'
+Jun 07, 2018 9:49:43 AM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: undeploy: Undeploying web application at '/test'
+Jun 07, 2018 9:49:43 AM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: deploy: Deploying web application '/test'
+Jun 07, 2018 9:49:43 AM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: Uploading WAR file to /home/deepikamarathi493/test1/apache-tomcat-7.0.88/webapps/test.war
+Jun 07, 2018 9:49:43 AM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: list: Listing contexts for virtual host 'localhost'
+Jun 07, 2018 9:49:43 AM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: list: Listing contexts for virtual host 'localhost'
+Jun 07, 2018 9:49:43 AM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: undeploy: Undeploying web application at '/test'
+Jun 07, 2018 9:49:44 AM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: deploy: Deploying web application '/test'
+Jun 07, 2018 9:49:44 AM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: Uploading WAR file to /home/deepikamarathi493/test1/apache-tomcat-7.0.88/webapps/test.war
+Jun 07, 2018 9:50:17 AM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: list: Listing contexts for virtual host 'localhost'
+Jun 07, 2018 9:50:17 AM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: list: Listing contexts for virtual host 'localhost'
+Jun 07, 2018 9:50:17 AM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: undeploy: Undeploying web application at '/test'
+Jun 07, 2018 9:50:17 AM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: deploy: Deploying web application '/test'
+Jun 07, 2018 9:50:17 AM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: Uploading WAR file to /home/deepikamarathi493/test1/apache-tomcat-7.0.88/webapps/test.war
+Jun 07, 2018 9:50:17 AM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: list: Listing contexts for virtual host 'localhost'
+Jun 07, 2018 9:50:17 AM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: list: Listing contexts for virtual host 'localhost'
+Jun 07, 2018 9:50:17 AM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: undeploy: Undeploying web application at '/test'
+Jun 07, 2018 9:50:18 AM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: deploy: Deploying web application '/test'
+Jun 07, 2018 9:50:18 AM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: Uploading WAR file to /home/deepikamarathi493/test1/apache-tomcat-7.0.88/webapps/test.war
+Jun 07, 2018 9:50:51 AM org.apache.catalina.core.ApplicationContext log
+INFO: HTMLManager: list: Listing contexts for virtual host 'localhost'

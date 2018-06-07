@@ -586,3 +586,49 @@ Jun 07, 2018 7:51:02 AM org.apache.coyote.AbstractProtocol start
 INFO: Starting ProtocolHandler ["ajp-bio-8009"]
 Jun 07, 2018 7:51:02 AM org.apache.catalina.startup.Catalina start
 INFO: Server startup in 2292 ms
+Jun 07, 2018 9:41:50 AM org.apache.catalina.startup.HostConfig deployWAR
+INFO: Deploying web application archive /home/deepikamarathi493/test1/apache-tomcat-7.0.88/webapps/test.war
+Jun 07, 2018 9:41:50 AM org.apache.catalina.startup.HostConfig deployWAR
+INFO: Deployment of web application archive /home/deepikamarathi493/test1/apache-tomcat-7.0.88/webapps/test.war has finished in 98 ms
+Jun 07, 2018 9:41:51 AM org.apache.catalina.startup.HostConfig undeploy
+INFO: Undeploying context [/test]
+Jun 07, 2018 9:41:51 AM org.apache.catalina.startup.HostConfig deployWAR
+INFO: Deploying web application archive /home/deepikamarathi493/test1/apache-tomcat-7.0.88/webapps/test.war
+Jun 07, 2018 9:41:51 AM org.apache.catalina.startup.HostConfig deployWAR
+INFO: Deployment of web application archive /home/deepikamarathi493/test1/apache-tomcat-7.0.88/webapps/test.war has finished in 75 ms
+Jun 07, 2018 9:41:56 AM org.apache.catalina.startup.HostConfig undeploy
+INFO: Undeploying context [/test]
+Jun 07, 2018 9:41:56 AM org.apache.catalina.startup.HostConfig deployWAR
+INFO: Deploying web application archive /home/deepikamarathi493/test1/apache-tomcat-7.0.88/webapps/test.war
+Jun 07, 2018 9:41:56 AM org.apache.catalina.startup.HostConfig deployWAR
+INFO: Deployment of web application archive /home/deepikamarathi493/test1/apache-tomcat-7.0.88/webapps/test.war has finished in 80 ms
+Jun 07, 2018 9:41:57 AM org.apache.catalina.startup.HostConfig undeploy
+INFO: Undeploying context [/test]
+Jun 07, 2018 9:41:57 AM org.apache.catalina.startup.HostConfig deployWAR
+INFO: Deploying web application archive /home/deepikamarathi493/test1/apache-tomcat-7.0.88/webapps/test.war
+Jun 07, 2018 9:41:57 AM org.apache.catalina.startup.HostConfig deployWAR
+INFO: Deployment of web application archive /home/deepikamarathi493/test1/apache-tomcat-7.0.88/webapps/test.war has finished in 57 ms
+Jun 07, 2018 9:49:43 AM org.apache.catalina.startup.HostConfig undeploy
+INFO: Undeploying context [/test]
+Jun 07, 2018 9:49:43 AM org.apache.catalina.startup.HostConfig deployWAR
+INFO: Deploying web application archive /home/deepikamarathi493/test1/apache-tomcat-7.0.88/webapps/test.war
+Jun 07, 2018 9:49:43 AM org.apache.catalina.startup.HostConfig deployWAR
+INFO: Deployment of web application archive /home/deepikamarathi493/test1/apache-tomcat-7.0.88/webapps/test.war has finished in 84 ms
+Jun 07, 2018 9:49:44 AM org.apache.catalina.startup.HostConfig undeploy
+INFO: Undeploying context [/test]
+Jun 07, 2018 9:49:44 AM org.apache.catalina.startup.HostConfig deployWAR
+INFO: Deploying web application archive /home/deepikamarathi493/test1/apache-tomcat-7.0.88/webapps/test.war
+Jun 07, 2018 9:49:44 AM org.apache.catalina.startup.HostConfig deployWAR
+INFO: Deployment of web application archive /home/deepikamarathi493/test1/apache-tomcat-7.0.88/webapps/test.war has finished in 75 ms
+Jun 07, 2018 9:50:17 AM org.apache.catalina.startup.HostConfig undeploy
+INFO: Undeploying context [/test]
+Jun 07, 2018 9:50:17 AM org.apache.catalina.startup.HostConfig deployWAR
+INFO: Deploying web application archive /home/deepikamarathi493/test1/apache-tomcat-7.0.88/webapps/test.war
+Jun 07, 2018 9:50:17 AM org.apache.catalina.startup.HostConfig deployWAR
+INFO: Deployment of web application archive /home/deepikamarathi493/test1/apache-tomcat-7.0.88/webapps/test.war has finished in 55 ms
+Jun 07, 2018 9:50:18 AM org.apache.catalina.startup.HostConfig undeploy
+INFO: Undeploying context [/test]
+Jun 07, 2018 9:50:18 AM org.apache.catalina.startup.HostConfig deployWAR
+INFO: Deploying web application archive /home/deepikamarathi493/test1/apache-tomcat-7.0.88/webapps/test.war
+Jun 07, 2018 9:50:18 AM org.apache.catalina.startup.HostConfig deployWAR
+INFO: Deployment of web application archive /home/deepikamarathi493/test1/apache-tomcat-7.0.88/webapps/test.war has finished in 74 ms
